@@ -10,3 +10,4 @@ Pasos para esjecutar el proyecto:
 
 1. Ejecutar ```npm run build```
 2. Tomar la carpeta ```dist``` y desplegarla
+<!--JAMAS TRABAJAR EN LA RAMA MAIN, es mejor crear una nueva rama-->
